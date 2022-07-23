@@ -1,0 +1,9 @@
+{
+  "values":[
+	"raph:rituals/effects/warp",
+	"raph:rituals/effects/warp_tpon",
+	"raph:rituals/effects/warp_tpoff",
+	"raph:rituals/effects/no_small",
+	"raph:rituals/effects/no_medium"
+  ]
+}

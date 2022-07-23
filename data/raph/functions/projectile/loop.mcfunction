@@ -1,0 +1,1 @@
+execute as @e[tag=R.projectile] at @s run function raph:projectile/main
